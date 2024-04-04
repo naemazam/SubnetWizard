@@ -1,7 +1,7 @@
 # 🌐 SubnetWizard
 
 Welcome to SubnetWizard, your ultimate console-based subnet/supernet calculator! Whether you're a network administrator or a curious tech enthusiast, SubnetWizard is here to simplify your subnetting tasks with ease. Dive into its features and unleash the power of network calculations like never before.
-![SubnetWizard](link_to_your_image)
+![SubnetWizard](subnetwizard.png)
 ## 🚀 Features
 - Subnet any given network effortlessly.
 - Calculate supernetting with precision.
