@@ -15,20 +15,46 @@ Welcome to SubnetWizard, your ultimate console-based subnet/supernet calculator!
 - Python 3.10.5 or above.
 
 ## 💡 User Manual
-1. **Installation**
-Clone the repository:
-     `git clone https://github.com/naemazam/SubnetWizard.git`
-   - Navigate to the directory: `cd SubnetWizard`.
-   
-2. **Usage**
-   - Run the tool: `python3 main.py` (or `python main.py` on Windows).
-   - You can also use argument keys:
+ **Installation**
+1. Clone the repository:
+
+ ```bash
+   git clone https://github.com/naemazam/SubnetWizard.git
+   ```
+
+2. Navigate to the directory:
+
+ ```bash
+   cd SubnetWizard
+   ```
+
+**Usage**
+1. Run the tool: 
+
+Linux: 
+ ```bash
+   python3 main.py
+   ```
+
+Windows:
+ ```bash
+   python main.py
+   ```
+
+2. You can also use argument keys:
      - `-i` for the IP address to subnet/supernet.
      - `-s` for the netmask (binary or CIDR).
-   - For more information, use: `python3 main.py --help`.
+
+3. For Help, use:
+
+ ```bash
+   python3 main.py --help
+   ```
    
-3. **Example**
-   - Subnetting: `python3 main.py -i 192.168.0.100/24 -s /26`.
+Example Subnetting: 
+ ```bash
+   python3 main.py -i 192.168.0.100/24 -s /26
+   ```
 
 ## ❓ FAQ
 **Q:** Can I use SubnetWizard on macOS?  
@@ -44,6 +70,6 @@ Contributions to SubnetWizard are welcome! Feel free to submit bug reports, feat
 SubnetWizard is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📸 Snapshot
-![SubnetWizard](link_to_your_image)
+![SubnetWizard](subnetwizard.png)
 
 Start subnetting and supernetting like a pro with SubnetWizard! Happy networking!
