@@ -16,7 +16,8 @@ Welcome to SubnetWizard, your ultimate console-based subnet/supernet calculator!
 
 ## 💡 User Manual
 1. **Installation**
-   - Clone the repository: `git clone https://github.com/naemazam/SubnetWizard.git` (or download .zip).
+Clone the repository:
+     `git clone https://github.com/naemazam/SubnetWizard.git`
    - Navigate to the directory: `cd SubnetWizard`.
    
 2. **Usage**
